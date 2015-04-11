@@ -1,0 +1,1 @@
+## It's just a global project of company "DecaCode"
